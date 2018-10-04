@@ -1,0 +1,2 @@
+"CFBundleDisplayName" = "Alfa Online";
+"CFBundleName" = "Alfa Online";
